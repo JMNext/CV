@@ -7,13 +7,11 @@
 **Email:** [Yuri.Mayorov@gmail.com](mailto:Yuri.Mayorov@gmail.com)
 **LinkedIn:** [linkedin.com/in/yurimayorov](https://www.linkedin.com/in/yurimayorov)
 
----
 
 ## SUMMARY
 
 - Experienced IT manager and DevOps engineer with over 20 years of hands-on expertise in IT systems administration, infrastructure design, and software development. Proven track record in managing IT operations, leading development teams, and implementing end-to-end solutions for highly complex projects. Skilled in optimizing IT processes and deploying scalable systems in fast-paced environments. Strong background in cloud technologies, DevOps methodologies, and IT infrastructure management. Capable of driving innovation and aligning IT strategies with business goals. Native Russian speaker and able to communicate effectively in English.
 
----
 
 ## SKILLS
 
@@ -45,7 +43,6 @@
 
 - Technical Support & Customer Service
 
----
 
 ## EXPERIENCE
 
@@ -119,7 +116,6 @@
 
 - Teaching the classical course of Theoretical Foundations of Electrical Engineering. Development and teaching of the newel course "Innovation technologies in electromechanics". Scientific research.
 
----
 
 ## EDUCATION
 
@@ -151,7 +147,6 @@
 
 - ZyXel Certified Network Engineer (ZSS), Credential ID 2192085
 
----
 
 ## INTERESTS
 
