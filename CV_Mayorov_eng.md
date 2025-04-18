@@ -116,6 +116,11 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 - Neural networks for business (https://t.me/nsekt )
 - "White Hacker" SKILLFACTORY (https://skillfactory.ru )
 
+### Languages
+
+- Russian native
+- English C1
+
 ## INTERESTS
 
 - **Digital Photo** - I photograph nature and the city landscape
