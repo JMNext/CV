@@ -15,18 +15,18 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ## SKILLS
 
-- IT Infrastructure Management (Linux, Windows Server)
+- IT Infrastructure & Service Management (Linux, Windows Server, ITIL, ITSM)
 - DevOps Tools & Automation (Docker, Jenkins, Git, Bash)
 - Network Setup & Administration (MikroTik, VPN, VLAN)
 - Virtualization (Hyper-V, VMware)
 - Database Administration (PostgreSQL, MySQL, MSSQL)
 - Web Hosting & Cloud Services (NGINX, AWS, OwnCloud)
-- AI technologies, query writing and data analysis
+- AI technologies, Prompt Engineering (ML, LLM, GenAI)
 - Unified Communications (VoIP, Kamailio, WebRTC)
 - Monitoring Systems (Zabbix, Grafana)
 - Blockchain and cryptocurrency development
 - Team Leadership & Project Management
-- System Security & Backup Solutions
+- System Security & Backup Solutions (OSINT, CIS Benchmark)
 - Software Development Life Cycle (SDLC)
 - Technical Support & Customer Service
 
