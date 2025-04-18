@@ -1,6 +1,6 @@
 # Yuri Mayorov
 
-<span style="font-size: 1.2em; font-weight: bold;">Technical Lead | Software Project Manager | DevOps Engineer</span>
+### Technical Lead | Software Project Manager | DevOps Engineer
 
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-dot.svg" width="20" height="20"> **Location:** Stuttgart, Germany
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/phone.svg" width="20" height="20"> **Phone:** (+49) 178 578 94 87 | (+7) 921 953 00 07

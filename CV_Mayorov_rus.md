@@ -1,6 +1,6 @@
 # Юрий Майоров
 
-<span style="font-size: 1.2em; font-weight: bold;">Технический директор | Руководитель IT-департамента | DevOps инженер</span>
+### Технический директор | Руководитель IT-департамента | DevOps инженер
 
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/location-dot.svg" width="20" height="20"> **Локация:** Санкт-Петербург, Россия | Stuttgart, Germany
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/phone.svg" width="20" height="20"> **Телефон:** (+7) 921 953 00 07 | (+49) 178 578 94 87
