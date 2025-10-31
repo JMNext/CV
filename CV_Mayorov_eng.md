@@ -9,6 +9,8 @@
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-whatsapp.svg" width="20" height="20"> **WhatsApp:** [wa.me/79219530007](https://wa.me/79219530007)
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="20" height="20"> **Telegram:** [@yurimayorov](https://t.me/yurimayorov)
 
+<img src="https://github.com/JMNext/CV/blob/main/Mayorov-photo.jpg" alt="Yuri Mayorov" width="792" height="1188">
+
 ## SUMMARY
 
 Experienced IT manager and DevOps engineer with over 20 years of hands-on expertise in IT systems administration, infrastructure design, and software development. Proven track record in managing IT operations, leading development teams, and implementing end-to-end solutions for highly complex projects. Skilled in optimizing IT processes and deploying scalable systems in fast-paced environments. Strong background in cloud technologies, DevOps methodologies, and IT infrastructure management. Capable of driving innovation and aligning IT strategies with business goals. Native Russian speaker and able to communicate effectively in English.
@@ -34,7 +36,7 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### CTO (Chief Technology Officer)
 
-> **Intelligent Computer Systems** - St.Petersburg, Russia\
+> **Intelligent Computer Systems** - St.Petersburg, Russia
 > **03.2018 – present**
 
 *A system integrator in IT and multimedia: software development, outsourcing, documentation, installation, support, and consulting. Small-sized enterprise with 10+ employees. Specializes in business automation, corporate unified communications (UC) systems, video conferencing, artificial intelligence systems, mobile development, cryptocurrency projects, and the Internet of Things (IoT) solutions. Providing analytics and IT expert services.*
@@ -51,7 +53,7 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Technical Director
 
-> **Gamingsoft** - St.Petersburg, Russia\
+> **Gamingsoft** - St.Petersburg, Russia
 > **02.2010 – 02.2018**
 
 *Software and hardware development company focusing on the gaming industry and financial sector. Small-sized enterprise with 25+ employees. Development and implementation of highly loaded and distributed client-server solutions and hardware devices for working with biometric and identification data, peripherals of payment and banking terminals, processing, broadcasting, and display of multimedia content.*
@@ -66,7 +68,7 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Webmaster -> System administrator -> Project manager -> Lead of technical department
 
-> **Viking Ltd.** - St.Petersburg, Russia\
+> **Viking Ltd.** - St.Petersburg, Russia
 > **01.2000 – 02.2010**
 
 *System integrator and distributor of multimedia systems. Enterprise with 50+ employees. Design, supply and installation of projection screens, video-walls, sound equipment, training complexes of augmented reality, 3D systems. Customers: control centers, education and design organizations, museums, show business.*
@@ -78,7 +80,7 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Associate professor. Department of Electrical Engineering
 
-> **Saint Petersburg State Technical University** - St.Petersburg, Russia\
+> **Saint Petersburg State Technical University** - St.Petersburg, Russia
 > **01.1999 – 06.2002**
 
 *One of the leading technical universities of Russia.*
@@ -91,21 +93,21 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Master of Business Administration (MBA)
 
-> **Vlerick Leuven-Gent Management School** - St.Petersburg, Russia\
+> **Vlerick Leuven-Gent Management School** - St.Petersburg, Russia
 > **2009 – 2011**
 
 - Graduated with Distinction
 
 ### Ph.D. in Electromechanics
 
-> **Saint Petersburg State Polytechnical University** - St.Petersburg, Russia\
+> **Saint Petersburg State Polytechnical University** - St.Petersburg, Russia
 > **1996 – 1999**
 
 - The best Russian scientific work of students in the section "Electrical and Power engineering" in 1997
 
 ### Master of Science, Electromechanics
 
-> **Saint Petersburg State Polytechnical University** - St.Petersburg, Russia\
+> **Saint Petersburg State Polytechnical University** - St.Petersburg, Russia
 > **1990 – 1996**
 
 - Graduated with Distinction
@@ -118,8 +120,9 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Languages
 
-- Russian native
-- English C1
+- Russian: native
+- English: Professional working proficiency
+- Deutsch: A1-A2
 
 ## INTERESTS
 
