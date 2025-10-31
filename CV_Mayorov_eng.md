@@ -9,7 +9,7 @@
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-whatsapp.svg" width="20" height="20"> **WhatsApp:** [wa.me/79219530007](https://wa.me/79219530007)
 - <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="20" height="20"> **Telegram:** [@yurimayorov](https://t.me/yurimayorov)
 
-<img src="https://github.com/JMNext/CV/blob/main/Mayorov-photo.jpg" alt="Yuri Mayorov" width="792" height="1188">
+<img title="" src="https://github.com/JMNext/CV/blob/main/Mayorov-photo.jpg?raw=true" alt="Yuri Mayorov">
 
 ## SUMMARY
 
