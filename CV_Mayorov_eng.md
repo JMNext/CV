@@ -129,3 +129,4 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 - **Digital Photo** - I photograph nature and the city landscape
 - **Jogging & swimming** - Member of parkrun club & winter swimming club
 - **Tech Enthusiast** - Exploring AI, cybersecurity, and smart home tech through blogs and webinars
+- Member of the Linux Specialists Club - [Linux-Café Esslingen](https://reparaturcafe-esslingen.de/linuxcafe/)
