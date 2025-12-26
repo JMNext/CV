@@ -114,9 +114,10 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 
 ### Certificates
 
-- ZyXel Certified Network Engineer (ZSS), Credential ID 2192085
+- AI for Business Professionals, HP LIFE online course, [Certificate](https://www.life-global.org/certificate/209fdedf-ef81-4a44-bc65-714325e57be1)
 - Neural networks for business (https://t.me/nsekt )
 - "White Hacker" SKILLFACTORY (https://skillfactory.ru )
+- ZyXel Certified Network Engineer (ZSS), Credential ID 2192085
 
 ### Languages
 

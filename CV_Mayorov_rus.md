@@ -119,9 +119,10 @@
 
 ### Сертификаты
 
-- ZyXel Certified Network Engineer (ZSS), Credential ID 2192085
+- AI for Business Professionals, HP LIFE online course, [Certificate](https://www.life-global.org/certificate/209fdedf-ef81-4a44-bc65-714325e57be1)
 - Нейросети для бизнеса (https://t.me/nsekt)
 - «Белый хакер» SKILLFACTORY (https://skillfactory.ru)
+- ZyXel Certified Network Engineer (ZSS), Credential ID 2192085
 
 ### Владение языками
 
