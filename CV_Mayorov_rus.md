@@ -22,7 +22,7 @@
 ## НАВЫКИ
 
 - Управление IT инфраструктурой и услугами (Linux, Windows Server, ITIL, ITSM)
-- Автоматизация и инструменты DevOps (Docker, Jenkins, Git, Bash)
+- Автоматизация (n8n, make.com) и инструменты DevOps (Docker, Jenkins, Git, Bash)
 - Сети и администрирование (MikroTik, VPN, VLAN)
 - Виртуализация (Hyper-V, VMware)
 - Администрирование баз данных (PostgreSQL, MySQL, MSSQL)

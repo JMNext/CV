@@ -18,7 +18,7 @@ Experienced IT manager and DevOps engineer with over 20 years of hands-on expert
 ## SKILLS
 
 - IT Infrastructure & Service Management (Linux, Windows Server, ITIL, ITSM)
-- DevOps Tools & Automation (Docker, Jenkins, Git, Bash)
+- DevOps Tools (Docker, Jenkins, Git, Bash) & Automation (n8n, make.com)
 - Network Setup & Administration (MikroTik, VPN, VLAN)
 - Virtualization (Hyper-V, VMware)
 - Database Administration (PostgreSQL, MySQL, MSSQL)
